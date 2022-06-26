@@ -47,7 +47,7 @@ href="https://youtu.be/wGzut9o2VRU"">Essa é a apresentação da Soraya Cerino> 
 
 <h2>Mary POPPINS</h2>
 <p>
-<img src="MARY.jpg"width="200">
+<img src="marypoppins.jpeg"width="200">
 </p>
 </body>
 </html>
